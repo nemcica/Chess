@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/chess_pieces">
+        <file>resources/bishop_b.png</file>
+        <file>resources/bishop_w.png</file>
+        <file>resources/king_b.png</file>
+        <file>resources/king_w.png</file>
+        <file>resources/knight_b.png</file>
+        <file>resources/knight_w.png</file>
+        <file>resources/pawn_b.png</file>
+        <file>resources/pawn_w.png</file>
+        <file>resources/queen_b.png</file>
+        <file>resources/queen_w.png</file>
+        <file>resources/rook_b.png</file>
+        <file>resources/rook_w.png</file>
+    </qresource>
+</RCC>
